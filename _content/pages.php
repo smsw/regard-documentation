@@ -1,4 +1,4 @@
-<div id="panel3" class="content active">
+<div id="panel3" class="content">
     <dl class="tabs" data-tab>
         <dd><a href="#page-1">Creating your first page </a>
         <dd><a href="#page-2">Navigation and Pages </a>

@@ -1,4 +1,4 @@
-<div id="panel2" class="content active">
+<div id="panel2" class="content">
     <dl class="tabs" data-tab>
         <dd><a href="#servicetype2-1">Editing, Publishing and Saving </a></dd>
         <dd><a href="#servicetype2-4">Pages </a></dd>

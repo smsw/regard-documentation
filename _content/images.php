@@ -1,13 +1,10 @@
-<div id="panel4" class="content active">
+<div id="panel4" class="content">
     <dl class="tabs" data-tab>
         <dd><a href="#image-1">Editing your uploaded image </a>
-
     </dl>
 
     <div class="tabs-content">
-
         <div class="content" id="image-1">
-
             <div class="panel callout radius">
                 <h5>Login to the admin panel using your username and password.</h5>
                 <p>Note: It is worth saving any images before you edit and save.</p>
@@ -29,8 +26,6 @@
                 <li>Clicking Resize, and entering a width and height will scale your image down.</li>
                 <li>Once happy with your changes, click 'Save Image'.</li>
             </ol>
-
         </div>
-
     </div>
 </div>
