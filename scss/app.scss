@@ -38,3 +38,57 @@
 //   "foundation/components/type",
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
+
+ol li {
+  padding: 10px 0;
+}
+
+footer{
+  margin-top:50px;
+  padding:20px;
+  background-color: #76A034;
+  a{
+    color: #EFEEDF;
+    &:hover{
+      color: #fff;
+    }
+  }
+  color: #EFEEDF;
+  p{
+    margin:0;
+    font-size: 14px;
+  }
+  ul {
+    margin-bottom:0!important;
+  }
+}
+
+.help{
+  background: #A03479!important;
+  margin-bottom:15px;
+}
+
+.critical{
+  background: #9B3232!important;
+  color: #FFF!important;
+}
+
+.amber{
+  background: #C74E09!important;
+  color: #FFF!important;
+}
+
+.safe{
+  background: #4B9B32!important;
+  color: #FFF!important;
+}
+
+#support1 a {
+  color: #AFAFAF;
+}
+
+.panel {
+  p{
+    font-size: 14px;
+  }
+}

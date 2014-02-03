@@ -9,14 +9,16 @@
     <div class="tabs-content">
 
         <div class="content" id="servicetype2-1">
-            <p>
-                Login to the admin panel using your username and password.
+
+            <div class="panel callout radius">
+                <h5>Login to the admin panel using your username and password.</h5>
+            </div>
             <ol>
                 <li>Content > Publish/Edit > Service Type.</li>
                 <li>Enter Service Type Data.</li>
                 <li>Click Publish to save your changes.</li>
             </ol>
-            </p>
+
         </div>
 
         <div class="content" id="servicetype2-2">

@@ -1,6 +1,6 @@
 <div id="panel1" class="content active">
     <dl class="tabs" data-tab>
-        <dd class="active"><a href="#panel2-1">Editing, Publishing and Saving </a></dd>
+        <dd><a href="#panel2-1">Editing, Publishing and Saving </a></dd>
         <dd><a href="#panel2-6">Description</a></dd>
         <dd><a href="#panel2-2">Images</a></dd>
         <dd><a href="#panel2-4">Tabs</a></dd>
@@ -10,9 +10,11 @@
 
     <div class="tabs-content">
 
-        <div class="content active" id="panel2-1">
+        <div class="content" id="panel2-1">
             <p>
-                Login to the admin panel using your username and password.
+                <div class="panel callout radius">
+                    <h5>Login to the admin panel using your username and password.</h5>
+                </div>
                 <ol>
                     <li>Content > Publish/Edit > Services.</li>
                     <li>Enter Service Data.</li>

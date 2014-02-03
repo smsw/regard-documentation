@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Foundation</title>
     <link rel="stylesheet" href="css/app.css" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <script src="bower_components/modernizr/modernizr.js"></script>
 </head>
 <body>
@@ -50,6 +51,7 @@
     <div class="large-12 columns">
         <div class="panel callout radius">
             <h5>Welcome to the Regard User Guide Documentation.</h5>
+            <p>Click a topic heading to begin.</p>
         </div>
     </div>
 </div>
