@@ -42,6 +42,7 @@
         <div class="content" id="servicetype2-3">
             <p>
                 <div class="panel callout radius">
+                    <h5>Selecting Relationships</h5>
                     <p>Select a Success Story to appear in the slider. Drag the green selected items in order from top to bottom, to display first and last.</p>
                 </div>
                 <ol>
