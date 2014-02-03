@@ -26,7 +26,7 @@
         <div class="content" id="panel2-2">
             <div class="panel callout radius">
                 <h5>Adding/Uploading Images</h5>
-                <p>Note: There is no limit to the number of images you can add.</p>
+                <p>Note: There is no limit to the number of service images you can add.</p>
             </div>
             <p>
                 <ol>
@@ -62,7 +62,6 @@
             <div class="panel callout radius">
                 <h5>Creating Custom Tabs</h5>
             </div>
-
             <p>
                 <ol>
                     <li>Click Tabs.</li>
@@ -78,12 +77,10 @@
                 <hr>
                 <img src="/_content/images/servicestabs.png"/>
             </p>
-
             <div class="panel callout radius">
                 <h5>Adding in Related Content</h5>
                 <p>News, and Success Stories</p>
             </div>
-
             <p>
                 <ol>
                     <li>Click Tabs.</li>

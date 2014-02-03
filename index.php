@@ -8,8 +8,6 @@
                 </dd>
             </dl>
         </div>
-
-
     </div>
     <div class="row">
         <div class="large-12 columns">
@@ -26,10 +24,11 @@
                     <a href="#panel3">Pages and Navigation</a>
                     <?php include_once('_content/pages.php');?>
                 </dd>
-
+                <dd>
+                    <a href="#panel4">Editing Images</a>
+                    <?php include_once('_content/images.php');?>
+                </dd>
             </dl>
         </div>
     </div>
-
-
 <?php include_once('_partials/footer.php');?>
