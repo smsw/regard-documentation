@@ -7,9 +7,7 @@
     </dl>
 
     <div class="tabs-content">
-
         <div class="content" id="servicetype2-1">
-
             <div class="panel callout radius">
                 <h5>Login to the admin panel using your username and password.</h5>
             </div>
@@ -18,21 +16,18 @@
                 <li>Enter Service Type Data.</li>
                 <li>Click Publish to save your changes.</li>
             </ol>
-
         </div>
 
         <div class="content" id="servicetype2-2">
-            <p>
-                <div class="panel callout radius">
-                    <h5>Please note</h5>
-                    <p>Enabling 'Find a Service' will only display when there is no Slider Content present.</p>
-                </div>
-                <ol>
-                    <li>Set Find a Service, to Yes or No</li>
-                    <li>Click Publish to save your changes.</li>
-                </ol>
-                <img src="_content/images/servicetype_findaservice.png"/>
-            </p>
+            <div class="panel callout radius">
+                <h5>Please note</h5>
+                <p>Enabling 'Find a Service' will only display when there is no Slider Content present.</p>
+            </div>
+            <ol>
+                <li>Set Find a Service, to Yes or No</li>
+                <li>Click Publish to save your changes.</li>
+            </ol>
+            <img src="_content/images/servicetype_findaservice.png"/>
             <div class="panel callout radius">
                 <h5>Result</h5>
             </div>
@@ -40,24 +35,23 @@
         </div>
 
         <div class="content" id="servicetype2-3">
-            <p>
-                <div class="panel callout radius">
-                    <h5>Selecting Relationships</h5>
-                    <p>Select a Success Story to appear in the slider. Drag the green selected items in order from top to bottom, to display first and last.</p>
-                </div>
-                <ol>
-                    <li>Select a Success Story</li>
-                    <li>For a Success Story to appear first, drag an item to the top.</li>
-                    <li>Click Publish to save your changes.</li>
-                </ol>
-                <img src="_content/images/servicetype_slider.png"/>
-            </p>
+
+            <div class="panel callout radius">
+                <h5>Selecting Relationships</h5>
+                <p>Select a Success Story to appear in the slider. Drag the green selected items in order from top to bottom, to display first and last.</p>
+            </div>
+            <ol>
+                <li>Select a Success Story</li>
+                <li>For a Success Story to appear first, drag an item to the top.</li>
+                <li>Click Publish to save your changes.</li>
+            </ol>
+            <img src="_content/images/servicetype_slider.png"/>
+
             <div class="panel callout radius">
                 <h5>Result</h5>
             </div>
             <img src="_content/images/servicetype_slider_result.png"/>
         </div>
-
 
         <div class="content" id="servicetype2-4">
             <p>
@@ -73,6 +67,5 @@
             </div>
             <img src="_content/images/servicetype_pages_result.png"/>
         </div>
-
     </div>
 </div>

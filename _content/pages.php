@@ -7,35 +7,36 @@
 
     <div class="tabs-content">
         <div class="content" id="page-1">
-            <p>
-                <div class="panel callout radius">
-                    <h5>Login to the admin panel using your username and password.</h5>
-                </div>
-                <ol>
-                    <li>Navigate to Content > Publish/Edit > Pages.</li>
-                    <li>Enter Page Data.</li>
-                    <li>Select the Pages Tab
-                        <img src="/_content/images/pagestemplate.png"/>
-                    </li>
-                    <li>Select the General Template from the 'Template' dropdown.</li>
-                    <li>Under Pages URL, enter a link you wish to create for this page.
-                        <ul>
-                            <li>Entering /about-us/ into this field, would generate a page like regard.co.uk/about-us/</li>
-                        </ul>
-                    </li>
-                </ol>
-            </p>
+            <div class="panel callout radius">
+                <h5>Login to the admin panel using your username and password.</h5>
+            </div>
+            <ol>
+                <li>Navigate to Content > Publish/Edit > Pages.</li>
+                <li>Enter Page Data.</li>
+                <li>Select the Pages Tab
+                    <img src="/_content/images/pagestemplate.png"/>
+                </li>
+                <li>Select from the dropdown, the template called 'general', under the subheading Pages.
+                    <br><br/>
+                    <img src="/_content/images/navigationpagedropdown.png"/>
+                </li>
+                <li>Under Pages URL, enter a link you wish to create for this page.
+                    <ul>
+                        <li>Entering /about-us/ into this field, would generate a page like regard.co.uk/about-us/</li>
+                        <li>If you wanted to add a page into the about-us hyperlink structure called 'the-regard-team', you would enter into the field: /about-us/the-regard-team/.  This would generate a page like regard.co.uk/about-us/the-regard-team/</li>
+                    </ul>
+                </li>
+            </ol>
         </div>
 
         <div class="content" id="page-2">
             <div class="panel callout radius">
                 <h5>Make sure to read 'Creating your first page' before following this.</h5>
             </div>
-
             <ol>
-                <li>Go to 'Navigation' or 'NavEE'. If you do not see either of these, go to Addons > Modules > and click NavEE.  Next, in the main Admin menu, click 'Add'. This will place the NavEE link into your Admin menu if you don't already have it.</li>
+                <li>Go to 'Navigation' or 'NavEE'. If you do not see either of these,  go to Addons > Modules > and click NavEE.  Next, in the main Admin menu, click 'Add'. This will place the NavEE link into your Admin menu if you don't already have it.</span></li>
                 <li>Navigation is split into three sections. Top, Primary, and Footer. Top navigation is where Accessibility, Cymraeg, and Easy Read links are located. Primary is where all of the main Regard links are located.</li>
-                <li>Click Footer Navigation</li>
+                <li>Lets take an example: Click Footer Navigation</li>
                 <li>Click 'Add Item'<br>
                     <img src="/_content/images/footeradditem.png"/>
                 </li>
