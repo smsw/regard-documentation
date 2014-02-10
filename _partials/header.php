@@ -25,7 +25,7 @@
     <div class="large-12 medium-12 columns">
         <div class="panel callout radius">
             <h5>Welcome to the Regard User Guide Documentation.</h5>
-            <p>Click a topic heading to begin.</p>
+            <p>Click a topic heading below to get started.</p>
         </div>
     </div>
 </div>

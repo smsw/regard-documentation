@@ -2,19 +2,19 @@
     <div class="row">
         <div class="large-12 columns">
             <dl class="accordion" data-accordion>
-                <dd>
+                <dd class="heading">
                     <a href="#panel1">Services</a>
                     <?php include_once('_content/services.php');?>
                 </dd>
-                <dd>
+                <dd class="heading">
                     <a href="#panel2">Service Type</a>
                     <?php include_once('_content/servicetype.php');?>
                 </dd>
-                <dd>
+                <dd class="heading">
                     <a href="#panel3">Pages and Navigation</a>
                     <?php include_once('_content/pages.php');?>
                 </dd>
-                <dd>
+                <dd class="heading">
                     <a href="#panel4">Editing Images</a>
                     <?php include_once('_content/images.php');?>
                 </dd>

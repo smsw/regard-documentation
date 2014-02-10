@@ -36,7 +36,7 @@
 
 // We use these to control various global styles
 $body-bg: #F5F5F5;
-$body-font-color: #918F7E;
+$body-font-color: #014C73;
 // $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
@@ -110,7 +110,8 @@ $body-font-color: #918F7E;
 // $include-html-accordion-classes: $include-html-classes;
 
 // $accordion-navigation-padding: rem-calc(16);
- $accordion-navigation-bg-color: #76A034  ;
+
+ $accordion-navigation-bg-color: #014C73  ;
  $accordion-navigation-hover-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -5%);
 // $accordion-navigation-active-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -3%);
  $accordion-navigation-font-color: #fff;
@@ -522,7 +523,7 @@ $body-font-color: #918F7E;
 
 // Off-canvas
 
-$tabbar-bg: #76A034;
+$tabbar-bg: #014C73;
 // $tabbar-height: rem-calc(45);
 // $tabbar-line-height: $tabbar-height;
 // $tabbar-color: #FFF;
@@ -953,7 +954,7 @@ $panel-font-color: #729196;
 // $tabs-navigation-bg-color: #efefef  ;
 // $tabs-navigation-active-bg-color: #fff;
 // $tabs-navigation-hover-bg-color: scale-color($tabs-navigation-bg-color, $lightness: -6%);
-$tabs-navigation-font-color: #918F7E;
+$tabs-navigation-font-color: #014C73;
 // $tabs-navigation-font-size: rem-calc(16);
 // $tabs-navigation-font-family: $body-font-family;
 
