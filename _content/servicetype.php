@@ -14,7 +14,7 @@
             <ol>
                 <li>Content > Publish/Edit > Service Type.</li>
                 <li>Enter Service Type Data.</li>
-                <li>Click Publish to save your changes.</li>
+                <li>Click Publish/Submit to save your changes.</li>
             </ol>
         </div>
 
@@ -25,13 +25,13 @@
             </div>
             <ol>
                 <li>Set Find a Service, to Yes or No</li>
-                <li>Click Publish to save your changes.</li>
+                <li>Click Publish/Submit to save your changes.</li>
             </ol>
-            <img src="_content/images/servicetype_findaservice.png"/>
+            <img src="_content/images/servicetype_findaservice.png" alt="find a service"/>
             <div class="panel callout radius">
                 <h5>Result</h5>
             </div>
-            <img src="_content/images/findaserviceresult.png"/>
+            <img src="_content/images/findaserviceresult.png" alt="find a service result"/>
         </div>
 
         <div class="content" id="servicetype2-3">
@@ -42,28 +42,28 @@
             <ol>
                 <li>Select a Success Story</li>
                 <li>For a Success Story to appear first, drag an item to the top.</li>
-                <li>Click Publish to save your changes.</li>
+                <li>Click Publish/Submit to save your changes.</li>
             </ol>
-            <img src="_content/images/servicetype_slider.png"/>
+            <img src="_content/images/servicetype_slider.png" alt="service type"/>
 
             <div class="panel callout radius">
                 <h5>Result</h5>
             </div>
-            <img src="_content/images/servicetype_slider_result.png"/>
+            <img src="_content/images/servicetype_slider_result.png" alt="service type slider"/>
         </div>
 
         <div class="content" id="servicetype2-4">
             <ol>
                 <li>Select or Search for a page to display on the Service Type</li>
                 <li>For a Service Type to appear first, drag an item to the top.</li>
-                <li>Click Publish to save your changes.</li>
+                <li>Click Publish/Submit to save your changes.</li>
             </ol>
-            <img src="_content/images/servicetype_pages.png"/>
+            <img src="_content/images/servicetype_pages.png" alt="service type images"/>
 
             <div class="panel callout radius">
                 <h5>Result</h5>
             </div>
-            <img src="_content/images/servicetype_pages_result.png"/>
+            <img src="_content/images/servicetype_pages_result.png" alt="service type pages result"/>
         </div>
     </div>
 </div>

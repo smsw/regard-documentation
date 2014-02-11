@@ -31,16 +31,16 @@
                 <li>Click 'Add some data'.</li>
                 <li>Click 'Add File'.</li>
                 <li>Select an image that exists already, or click 'Upload File'.</li>
-                <li>Click Publish to save your changes.</li>
+                <li>Click Publish/Submit to save your changes.</li>
             </ol>
 
-            <img src="/_content/images/serviceimages.png"/>
+            <img src="/_content/images/serviceimages.png" alt="service image"/>
             <hr>
             <div class="panel callout radius">
                 <h5>Result</h5>
             </div>
             <hr>
-            <img src="/_content/images/servicesimages_result.png"/>
+            <img src="/_content/images/servicesimages_result.png" alt="service image result" />
         </div>
 
         <div class="content" id="panel2-3">
@@ -50,9 +50,9 @@
             <ol>
                 <li>Click SEO.</li>
                 <li>Enter SEO Title, Meta Keywords, or Description.</li>
-                <li>Click Publish to save your changes.</li>
+                <li>Click Publish/Submit to save your changes.</li>
             </ol>
-            <img src="/_content/images/servicesseo.png"/>
+            <img src="/_content/images/servicesseo.png" alt="service seo"/>
         </div>
 
         <div class="content" id="panel2-4">
@@ -64,15 +64,15 @@
                 <li>Click Tabs.</li>
                 <li>Click 'Add some data'.</li>
                 <li>Enter a Title, add an Image, and Body.</li>
-                <li>Click Publish to save your changes.</li>
+                <li>Click Publish/Submit to save your changes.</li>
             </ol>
-            <img src="/_content/images/servicestab.png"/>
+            <img src="/_content/images/servicestab.png" alt="service tabs"/>
             <hr>
             <div class="panel callout radius">
                 <h5>Result</h5>
             </div>
             <hr>
-            <img src="/_content/images/servicestabs.png"/>
+            <img src="/_content/images/servicestabs.png" alt="service tabs"/>
 
             <div class="panel callout radius">
                 <h5>Adding in Related Content</h5>
@@ -82,10 +82,10 @@
             <ol>
                 <li>Click Tabs.</li>
                 <li>Select a News or Success Story item.</li>
-                <li>Click Publish to save your changes.</li>
+                <li>Click Publish/Submit to save your changes.</li>
             </ol>
 
-            <img src="/_content/images/services_related.png"/>
+            <img src="/_content/images/services_related.png" alt="services related"/>
             <hr>
 
             <div class="panel callout radius">
@@ -93,7 +93,7 @@
             </div>
 
             <hr>
-            <img src="/_content/images/servicessuccessstories.png"/>
+            <img src="/_content/images/servicessuccessstories.png" alt="services success stories"/>
         </div>
 
         <div class="content" id="panel2-5">
@@ -104,9 +104,9 @@
             <ol>
                 <li>Click GEO.</li>
                 <li>Enter Postcode or Plot Location.</li>
-                <li>Click Publish to save your changes.</li>
+                <li>Click Publish/Submit to save your changes.</li>
             </ol>
-            <img src="/_content/images/servicesgeo.png"/>
+            <img src="/_content/images/servicesgeo.png" alt="services geo"/>
         </div>
 
         <div class="content" id="panel2-6">
@@ -115,9 +115,9 @@
             </div>
             <ol>
                 <li>Enter a description about the service.</li>
-                <li>Click Publish to save your changes.</li>
+                <li>Click Publish/Submit to save your changes.</li>
             </ol>
-            <img src="/_content/images/services_description.png"/>
+            <img src="/_content/images/services_description.png" alt="services description"/>
         </div>
     </div>
 </div>

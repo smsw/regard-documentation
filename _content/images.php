@@ -19,7 +19,7 @@
                 </li>
                 <li>Click Edit Image</li>
                 <li>You will now see image, and the given options of Crop, Rotate and Resize.
-                    <img src="/_content/images/editimage.png"/>
+                    <img src="/_content/images/editimage.png" alt="edit image"/>
                 </li>
                 <li>Clicking Crop Mode, will allow you to crop the image to the box dimensions you set. Once you have saved this, there is no way to restore the original image.  </li>
                 <li>Clicking Rotate, will provide you options to rotate the image.</li>

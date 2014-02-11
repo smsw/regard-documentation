@@ -14,11 +14,11 @@
                 <li>Navigate to Content > Publish/Edit > Pages.</li>
                 <li>Enter Page Data.</li>
                 <li>Select the Pages Tab
-                    <img src="/_content/images/pagestemplate.png"/>
+                    <img src="/_content/images/pagestemplate.png" alt="pages template"/>
                 </li>
                 <li>Now on the same page, go to the 'Template' dropdown' selecting 'general'. It will be under the subheading Pages as shown in the screenshot below.
                     <br><br/>
-                    <img src="/_content/images/navigationpagedropdown.png"/>
+                    <img src="/_content/images/navigationpagedropdown.png" alt="navigation dropdown"/>
                 </li>
                 <li>Under Pages URL, enter a link you wish to create for this page.
                     <ul>
@@ -45,24 +45,24 @@
                 <li>Navigation is split into three sections. Top, Primary, and Footer. Top navigation is where Accessibility, Cymraeg, and Easy Read links are located. Primary is where all of the main Regard links are located.</li>
                 <li>Lets take an example: Click Footer Navigation</li>
                 <li>Click 'Add Item'<br>
-                    <img src="/_content/images/footeradditem.png"/>
+                    <img src="/_content/images/footeradditem.png" alt="footer add item"/>
                 </li>
                 <li>
                     You will be presented with the following:
                     <br>
-                    <img src="/_content/images/pagesadditem.png"/>
+                    <img src="/_content/images/pagesadditem.png" alt="pages add item"/>
                 </li>
                 <li>Link Text is simply the name of your menu item, so for this example we will name it 'About Us' </li>
                 <li>Next, you will have three options 'Manual', 'Guided' and 'Pages'. For this particular example, click 'Pages'.</li>
                 <li>Here it will ask you to choose from a list of Pages we've created. Simply, scroll down the list of pages to find About Us.</li>
-                <li><img src="/_content/images/pagesaboutus.png"/></li>
+                <li><img src="/_content/images/pagesaboutus.png" alt="pages about us"/></li>
                 <li>Once selected, click 'Add'.</li>
             </ol>
             <div class="panel callout radius">
                 <h5>Result</h5>
                 <p>The About Us link will now appear in the footer.</p>
             </div>
-            <img src="/_content/images/footeraddlinks.png"/>
+            <img src="/_content/images/footeraddlinks.png" alt="footer add links"/>
         </div>
 
         <div class="content" id="page-3">
@@ -73,11 +73,11 @@
                 <li>Click Navigation</li>
                 <li>Drag a menu item to where you would like it to display, and drop.
                     <br>
-                    <img src="/_content/images/navigationorder.png"/>
+                    <img src="/_content/images/navigationorder.png" alt="navigation order"/>
                 </li>
                 <li>It will save once you drag and drop automatically. About Us will now display before Contact us in the main site.
                     <br>
-                    <img src="/_content/images/navigationresult.png"/>
+                    <img src="/_content/images/navigationresult.png" alt="navigation result"/>
                 </li>
             </ol>
         </div>
