@@ -9,7 +9,6 @@
     </dl>
 
     <div class="tabs-content">
-
         <div class="content active" id="panel2-1">
             <div class="panel callout radius">
                 <h5>Login to the admin panel using your username and password.</h5>
@@ -59,7 +58,6 @@
             <div class="panel callout radius">
                 <h5>Creating Custom Tabs for your services page.</h5>
             </div>
-
             <ol>
                 <li>Click Tabs.</li>
                 <li>Click 'Add some data'.</li>

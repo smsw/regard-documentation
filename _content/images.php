@@ -7,7 +7,7 @@
         <div class="content active" id="image-1">
             <div class="panel callout radius">
                 <h5>Login to the admin panel using your username and password.</h5>
-                <p>Note: It is worth saving any images before you edit and save.</p>
+                Note: It is worth saving any images before you edit and save.
             </div>
             <ol>
                 <li>Navigate to Content > Files > File manager.</li>
