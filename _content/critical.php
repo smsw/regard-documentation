@@ -8,6 +8,7 @@
 
     <div class="tabs-content">
         <div class="content" id="support-1">
+            <h3>Critical support</h3>
             Please phone us on <a href="tel:01252715059" title="Call us">01252 715 059</a> if your issue is <strong>critical</strong>, i.e your website is offline or has been completely unusable. Examples of which include:
             <ol>
                 <li>Site is completely unresponsive and it is not loading. </li>
@@ -17,6 +18,7 @@
         </div>
 
         <div class="content" id="support-2">
+            <h3>Technical support</h3>
             Please get in touch by emailing us at <a href="mailto:support@smswmedia.com">support@smswmedia.com</a> if your issue is <strong>non critical</strong>, allowing up to 48 hours for us to respond.  Examples of which include:
             <ol>
                 <li>A page is not functioning or displaying how you would like.</li>
