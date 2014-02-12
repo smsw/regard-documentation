@@ -3,7 +3,8 @@
         <dd class="active"><a href="#servicetype2-1">Editing, Publishing and Saving </a></dd>
         <dd><a href="#servicetype2-4">Pages </a></dd>
         <dd><a href="#servicetype2-2">Find a Service </a></dd>
-        <dd><a href="#servicetype2-3">Slide Content </a></dd>
+        <dd><a href="#servicetype2-3">Slide Content/Images </a></dd>
+        <dd><a href="#servicetype2-5">More Info</a></dd>
     </dl>
 
     <div class="tabs-content">
@@ -28,6 +29,7 @@
                 <li>Click Publish/Submit to save your changes.</li>
             </ol>
             <img src="_content/images/servicetype_findaservice.png" alt="find a service"/>
+            <br><br>
             <div class="panel callout radius">
                 <h5>Result</h5>
             </div>
@@ -35,6 +37,7 @@
         </div>
 
         <div class="content" id="servicetype2-3">
+            <h3>Slider Content</h3>
             <div class="panel callout radius">
                 <h5>Selecting Relationships</h5>
                 <p>Select a Success Story to appear in the slider. Drag the green selected items in order from top to bottom, to display first and last.</p>
@@ -50,6 +53,15 @@
                 <h5>Result</h5>
             </div>
             <img src="_content/images/servicetype_slider_result.png" alt="service type slider"/>
+
+            <hr>
+            <h3>Slider Images</h3>
+            <ol>
+                <li>To have Slider Images in a Service Type page, simply click 'Add some data'</li>
+                <li><img src="_content/images/slideimages.png" alt="slider images"/></li>
+                <li>Click 'Add File', and select an image.</li>
+                <li>Click Publish/Submit to save your changes.</li>
+            </ol>
         </div>
 
         <div class="content" id="servicetype2-4">
@@ -64,6 +76,21 @@
                 <h5>Result</h5>
             </div>
             <img src="_content/images/servicetype_pages_result.png" alt="service type pages result"/>
+        </div>
+
+        <div class="content" id="servicetype2-5">
+            <h3>Information Boxes</h3>
+            <ol>
+                <li>Select or Search for a page to display on the Service Type</li>
+                <li>In this example we have selected Our Values, Vision and Mission.
+                    <br><br>
+                    <img src="_content/images/moreinformation.png" alt="more information"/></li>
+                <li>Click Publish/Submit to save your changes.</li>
+                <li>Going to that service type, we can now see 'Our Values, Vision, and Mission' now displays.
+                <br><br>
+                    <img src="_content/images/moreinformation.png" alt="more information"/></li>
+                </li>
+            </ol>
         </div>
     </div>
 </div>

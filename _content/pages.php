@@ -13,10 +13,10 @@
             <ol>
                 <li>Navigate to Content > Publish/Edit > Pages.</li>
                 <li>Enter Page Data.</li>
-                <li>Select the Pages Tab
+                <li>Select the Pages Tab, as shown in the screenshot below.
                     <img src="/_content/images/pagestemplate.png" alt="pages template"/>
                 </li>
-                <li>Now on the same page, go to the 'Template' dropdown' selecting 'general'. It will be under the subheading Pages as shown in the screenshot below.
+                <li>Now whilst on the same page, navigate to the 'Template' dropdown' selecting 'general'. It will be under the subheading Pages as shown in the screenshot below.
                     <br><br/>
                     <img src="/_content/images/navigationpagedropdown.png" alt="navigation dropdown"/>
                 </li>
@@ -41,22 +41,27 @@
                 <h5>Make sure to read 'Creating your first page' before following this.</h5>
             </div>
             <ol>
-                <li>Go to 'Navigation' or 'NavEE'. If you do not see either of these, please navigate to the heading "Help, my site isn't working", and clicking Frequently asked questions.</li>
-                <li>Navigation is split into three sections. Top, Primary, and Footer. Top navigation is where Accessibility, Cymraeg, and Easy Read links are located. Primary is where all of the main Regard links are located.</li>
-                <li>Lets take an example: Click Footer Navigation</li>
-                <li>Click 'Add Item'<br>
-                    <img src="/_content/images/footeradditem.png" alt="footer add item"/>
+                <li>Go to 'Navigation' or 'NavEE'. If you do not see either of these, please navigate to the heading "Help, my site isn't working", and clicking Frequently asked questions, finding "I am unable to view/locate where the navigation is in the backend.".</li>
+                <li>Navigation is split into three sections. Top, Primary, and Footer. The Top navigation is where Accessibility, Cymraeg, and Easy Read links are located (at the top of the site). Primary is where Supported Living and Residential Services links are located. Finally, Footer, is all of the links that are located towards the bottom of the site. These groups of links will appear on every page of your site.</li>
+                <li>Lets take an example, and create a link in the Footer Navigation</li>
+                <li>Firstly, select the Group of links you wish to edit. In this example, its Footer Navigation.
+                <br><br>
+                    <img src="/_content/images/navigationoptions.png" alt="navigation options"/>
+                </li>
+                <li>Next, we will see our current links on the left hand side, and on the right side, the option to add more links. So under 'Add Item', we will begin making our new link.<br>
+                    <img src="/_content/images/footeradditem.png" alt="footer add item" />
                 </li>
                 <li>
                     You will be presented with the following:
                     <br>
-                    <img src="/_content/images/pagesadditem.png" alt="pages add item"/>
+                    <img src="/_content/images/pagesadditem.png" alt="pages add item" />
                 </li>
                 <li>Link Text is simply the name of your menu item, so for this example we will name it 'About Us' </li>
                 <li>Next, you will have three options 'Manual', 'Guided' and 'Pages'. For this particular example, click 'Pages'.</li>
                 <li>Here it will ask you to choose from a list of Pages we've created. Simply, scroll down the list of pages to find About Us.</li>
-                <li><img src="/_content/images/pagesaboutus.png" alt="pages about us"/></li>
+                <li><img src="/_content/images/pagesaboutus.png" alt="pages about us" /></li>
                 <li>Once selected, click 'Add'.</li>
+                <li>The link was always live and accessible so long as the page created for it is 'Open'. We are simply taking an existing page that exists, and appending it in our footer navigation. </li>
             </ol>
             <div class="panel callout radius">
                 <h5>Result</h5>
