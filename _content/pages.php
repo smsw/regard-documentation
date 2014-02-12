@@ -1,19 +1,20 @@
 <div id="panel3" class="content">
     <dl class="tabs" data-tab>
-        <dd class="active"><a href="#page-1">Creating your first page </a>
-        <dd><a href="#page-2">Navigation and Pages </a>
+        <dd class="active"><a href="#page-1">Creating your first page</a>
+        <dd><a href="#page-2">Navigation and Pages</a>
         <dd><a href="#page-3">Re-ordering Navigation Items</a>
     </dl>
 
     <div class="tabs-content">
         <div class="content active" id="page-1">
+            <h3>Creating General Pages</h3>
             <div class="panel callout radius">
                 <h5>Login to the admin panel using your username and password.</h5>
             </div>
             <ol>
                 <li>Navigate to Content > Publish/Edit > Pages.</li>
                 <li>Enter Page Data.</li>
-                <li>Select the Pages Tab, as shown in the screenshot below.
+                <li>Select the Pages Tab, as shown in the screenshot below.<br><br/>
                     <img src="/_content/images/pagestemplate.png" alt="pages template"/>
                 </li>
                 <li>Now whilst on the same page, navigate to the 'Template' dropdown' selecting 'general'. It will be under the subheading Pages as shown in the screenshot below.
@@ -37,6 +38,7 @@
         </div>
 
         <div class="content" id="page-2">
+            <h3>Linking your General Page in the Navigation</h3>
             <div class="panel callout radius">
                 <h5>Make sure to read 'Creating your first page' before following this.</h5>
             </div>
@@ -71,8 +73,10 @@
         </div>
 
         <div class="content" id="page-3">
+            <h3>Moving Navigation Links</h3>
             <div class="panel callout radius">
                 <h5>Re-arranging navigation items</h5>
+                <p>This applies globally for Top, Primary, and Footer Navigation items.</p>
             </div>
             <ol>
                 <li>Click Navigation</li>
