@@ -38,12 +38,9 @@
             </ol>
         </div>
 
-
-
         <div class="content active" id="support-4">
             <h3>Frequently asked questions</h3>
             Please troubleshoot through the following frequently asked questions before contacting us:
-
             <hr>
             <ol>
                 <li>I am unable to login to the CMS backend. I keep landing on the login page despite entering my details and clicking submit.
@@ -90,6 +87,5 @@
                 </li>
             </ol>
         </div>
-
    </div>
 </div>

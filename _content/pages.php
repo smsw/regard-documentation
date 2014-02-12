@@ -41,7 +41,7 @@
                 <h5>Make sure to read 'Creating your first page' before following this.</h5>
             </div>
             <ol>
-                <li>Go to 'Navigation' or 'NavEE'. If you do not see either of these, please navigate to the heading "Help, my site isn't working", and clicking Frequently asked questions.</span></li>
+                <li>Go to 'Navigation' or 'NavEE'. If you do not see either of these, please navigate to the heading "Help, my site isn't working", and clicking Frequently asked questions.</li>
                 <li>Navigation is split into three sections. Top, Primary, and Footer. Top navigation is where Accessibility, Cymraeg, and Easy Read links are located. Primary is where all of the main Regard links are located.</li>
                 <li>Lets take an example: Click Footer Navigation</li>
                 <li>Click 'Add Item'<br>
