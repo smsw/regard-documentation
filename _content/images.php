@@ -5,6 +5,7 @@
 
     <div class="tabs-content">
         <div class="content active" id="image-1">
+            <h3>Editing Images</h3>
             <div class="panel callout radius">
                 <h5>Login to the admin panel using your username and password.</h5>
                 Note: It is worth saving any images before you edit and save.
