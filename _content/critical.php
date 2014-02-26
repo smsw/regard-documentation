@@ -1,5 +1,4 @@
 <div id="support1" class="content">
-
     <dl class="tabs" data-tab>
         <dd><a href="#support-1" class="critical">Critical support</a></dd>
         <dd><a href="#support-2">Technical support</a></dd>

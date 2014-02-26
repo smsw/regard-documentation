@@ -1,7 +1,30 @@
 <?php include_once('_partials/header.php');?>
+
     <div class="row">
         <div class="large-12 columns">
             <dl class="accordion" data-accordion>
+                <dd>
+                    <a href="#panel7" class="common">Pasting content/text into the CMS Editor </a>
+                    <?php include_once('_content/editor.php');?>
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <br>
+    <div class="row">
+        <div class="large-12 columns">
+            <dl class="accordion" data-accordion>
+                <dd class="heading">
+                    <a href="#panel5">Book a Session</a>
+                    <?php include_once('_content/session.php');?>
+                </dd>
+
+                <dd class="heading">
+                    <a href="#panel6">Products</a>
+                    <?php include_once('_content/products.php');?>
+                </dd>
+
                 <dd class="heading">
                     <a href="#panel1">Services</a>
                     <?php include_once('_content/services.php');?>
@@ -21,6 +44,8 @@
             </dl>
         </div>
     </div>
+
+
 
     <div class="row">
         <div class="large-12 columns">
