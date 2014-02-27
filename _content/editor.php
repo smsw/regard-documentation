@@ -1,14 +1,14 @@
 <div id="panel7" class="content">
     <dl class="tabs" data-tab>
-        <dd class="active"><a href="#products-panel2-1">Introduction </a></dd>
-        <dd><a href="#products-panel2-6">Tip 1</a></dd>
-        <dd><a href="#products-panel2-2">Tip 2</a></dd>
+        <dd class="active"><a href="#editor-panel2-1">Introduction </a></dd>
+        <dd><a href="#editor-panel2-6">Tip 1</a></dd>
+        <dd><a href="#editor-panel2-2">Tip 2</a></dd>
     </dl>
 
     <div class="tabs-content">
 
         <!-- Quick overview -->
-        <div class="content active" id="products-panel2-1">
+        <div class="content active" id="editor-panel2-1">
             <h3>Pasting from Word Documents, Websites, and other misc sources.
             </h3>
             <p>Here are a few tips to help you copy content into the Editor CMS.</p>
@@ -17,7 +17,7 @@
         </div>
 
         <!-- Tip 1 -->
-        <div class="content" id="products-panel2-6">
+        <div class="content" id="editor-panel2-6">
             <h3>Tip 1 - Pasting directly into the CMS.</h3>
             <p>Unless it is <a href="http://en.wikipedia.org/wiki/Text_editor" title="plain text wiki" target="_blank">plain text</a>, pasting directly into the CMS from a Word document or website will need some help to get it to display correctly.</p>
             <p>Pasting directly from websites/documents will often bring unwanted formatting and tags the editor is unable to determine.</p>
@@ -31,7 +31,7 @@
         </div>
 
         <!-- Tip 2 -->
-        <div class="content" id="products-panel2-2">
+        <div class="content" id="editor-panel2-2">
             <h3>Tip 2 - Pasting into Notepad, and then into the CMS.</h3>
             <p>Unless it is <a href="http://en.wikipedia.org/wiki/Text_editor" title="plain text wiki" target="_blank">plain text</a>, pasting directly into the CMS from a Word document or website will need some help to get it to display correctly.</p>
             <p>Pasting directly from websites/documents will often bring unwanted formatting and tags the editor is unable to determine.</p>
