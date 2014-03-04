@@ -98,3 +98,17 @@ footer{
   border-bottom:8px solid #00263A;
 }
 
+.warn {
+  border-color: #FFE8B6!important;
+  background: #FFF8EC!important
+}
+
+.panel.callout.warn {
+  h5 {
+    color: #805700;
+    font-weight: 500;
+  }
+  p {
+    color: #815902;
+  }
+}

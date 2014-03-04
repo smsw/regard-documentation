@@ -16,21 +16,21 @@
         <div class="large-12 columns">
             <dl class="accordion" data-accordion>
                 <dd class="heading">
-                    <a href="#panel5">Book a Session</a>
+                    <a href="#panel5">Adding/Editing a Session</a>
                     <?php include_once('_content/session.php');?>
                 </dd>
 
                 <dd class="heading">
-                    <a href="#panel6">Products</a>
+                    <a href="#panel6">Adding/Editing a Product</a>
                     <?php include_once('_content/products.php');?>
                 </dd>
 
                 <dd class="heading">
-                    <a href="#panel1">Services</a>
+                    <a href="#panel1">Adding/Editing a Service</a>
                     <?php include_once('_content/services.php');?>
                 </dd>
                 <dd class="heading">
-                    <a href="#panel2">Service Type</a>
+                    <a href="#panel2">Adding/Editing a Service Type</a>
                     <?php include_once('_content/servicetype.php');?>
                 </dd>
                 <dd class="heading">
@@ -44,8 +44,6 @@
             </dl>
         </div>
     </div>
-
-
 
     <div class="row">
         <div class="large-12 columns">

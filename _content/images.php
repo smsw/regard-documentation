@@ -1,13 +1,17 @@
 <div id="panel4" class="content">
     <dl class="tabs" data-tab>
-        <dd class="active"><a href="#image-1">Editing your uploaded image </a>
+        <dd class="active"><a href="#image-intro">Introduction</a></dd>
+        <dd><a href="#image-1">Editing your uploaded image </a>
     </dl>
 
     <div class="tabs-content">
-        <div class="content active" id="image-1">
+        <div class="content active" id="image-intro">
+            <h3>Login to the <a href="http://regard.co.uk/admin.php" title="Admin panel" rel="nofollow" target="_blank">admin panel</a> using your username and password.
+            </h3>
+        </div>
+        <div class="content" id="image-1">
             <h3>Editing Images</h3>
             <div class="panel callout radius">
-                <h5>Login to the admin panel using your username and password.</h5>
                 Note: It is worth saving any images before you edit and save.
             </div>
             <ol>

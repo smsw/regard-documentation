@@ -1,7 +1,7 @@
 <div id="panel2" class="content">
     <dl class="tabs" data-tab>
         <dd class="active"><a href="#servicetype2-1">Introduction</a></dd>
-        <dd><a href="#servicetype2-2">Publish </a></dd>
+        <dd><a href="#servicetype2-2">Publish/Edit </a></dd>
         <dd><a href="#servicetype2-3">Slider</a></dd>
         <dd><a href="#servicetype2-5">Information Boxes</a></dd>
         <dd><a href="#servicetype2-6">Newsletter</a></dd>
@@ -13,7 +13,7 @@
     <div class="tabs-content">
         <!-- Overview -->
         <div class="content active" id="servicetype2-1">
-            <h3>Login to the admin panel using your username and password.</h3>
+            <h3>Login to the <a href="http://regard.co.uk/admin.php" title="Admin panel" rel="nofollow" target="_blank">admin panel</a> using your username and password.</h3>
             Service Type pages display at <a href="http://regard.co.uk/service-type/" target="_blank" title="Service Type">http://regard.co.uk/service-type/</a>
         </div>
 

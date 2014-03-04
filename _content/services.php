@@ -1,7 +1,7 @@
 <div id="panel1" class="content">
     <dl class="tabs" data-tab>
         <dd class="active"><a href="#panel2-1">Introduction </a></dd>
-        <dd><a href="#panel2-6">Publish</a></dd>
+        <dd><a href="#panel2-6">Publish/Edit</a></dd>
         <dd><a href="#panel2-2">Images</a></dd>
         <dd><a href="#panel2-4">Tabs</a></dd>
         <dd><a href="#panel2-7">Contact</a></dd>
@@ -16,7 +16,7 @@
 
         <!-- Quick overview -->
         <div class="content active" id="panel2-1">
-            <h3>Login to the admin panel using your username and password.
+            <h3>Login to the <a href="http://regard.co.uk/admin.php" title="Admin panel" rel="nofollow" target="_blank">admin panel</a> using your username and password.
             </h3>
             Services display at <a href="http://regard.co.uk/services/" target="_blank" title="Regard Services">http://regard.co.uk/services/</a>
         </div>
@@ -43,6 +43,10 @@
             <ul>
                 <li>Select a service type that you would like to display on your service page.</li>
             </ul>
+            <div class="panel callout warn radius">
+                <h5>Next...</h5>
+                <p>Go to Images</p>
+            </div>
         </div>
 
         <!-- Images -->
@@ -67,6 +71,12 @@
             </div>
             <hr>
             <img src="/_content/images/servicesimages_result.png" alt="service image result" />
+
+            <div class="panel callout warn radius">
+                <h5>Next...</h5>
+                <p>Go to Tabs</p>
+            </div>
+
         </div>
 
         <!-- Tabs -->
@@ -104,6 +114,12 @@
 
             <hr>
             <img src="/_content/images/servicessuccessstories.png" alt="services success stories"/>
+
+
+            <div class="panel callout warn radius">
+                <h5>Next...</h5>
+                <p>Go to Contact</p>
+            </div>
         </div>
 
 
@@ -119,7 +135,10 @@
             </ol>
             <img src="/_content/images/servicesseo.png" alt="service seo"/>
 
-
+            <div class="panel callout warn radius">
+                <h5>Next...</h5>
+                <p>Go to Session</p>
+            </div>
         </div>
 
         <div class="content" id="panel2-5">
@@ -141,6 +160,10 @@
             <ul>
                 <li>Enter contact information you wish to display on your service page.</li>
             </ul>
+            <div class="panel callout warn radius">
+                <h5>Next...</h5>
+                <p>Go to Staff</p>
+            </div>
         </div>
 
         <div class="content" id="panel2-8">
@@ -148,6 +171,10 @@
             <ul>
                 <li>Enter staff contact information you wish to display on your service page.</li>
             </ul>
+            <div class="panel callout warn radius">
+                <h5>Next...</h5>
+                <p>Go to Media</p>
+            </div>
         </div>
 
         <div class="content" id="panel2-9">
@@ -157,6 +184,10 @@
                 <li>Select the option to display a service leaflet, and upload a service leaflet by clicking 'Add File'.</li>
                 <li>This will display a service leaflet button your service page.</li>
             </ul>
+            <div class="panel callout warn radius">
+                <h5>Next...</h5>
+                <p>Go to SEO</p>
+            </div>
         </div>
 
         <div class="content" id="panel2-10">
@@ -165,6 +196,10 @@
                 <li>For services that require linking to Book a Session.</li>
                 <li>Enter a Name of Link, and URL into the fields.</li>
             </ul>
+            <div class="panel callout warn radius">
+                <h5>Next...</h5>
+                <p>Go to GEO</p>
+            </div>
         </div>
     </div>
 </div>

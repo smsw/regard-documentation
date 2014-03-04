@@ -1,16 +1,19 @@
 <div id="panel3" class="content">
     <dl class="tabs" data-tab>
-        <dd class="active"><a href="#page-1">Creating your first page</a>
+        <dd class="active"><a href="#page-intro">Introduction</a></dd>
+        <dd><a href="#page-1">Creating your first page</a>
         <dd><a href="#page-2">Navigation and Pages</a>
         <dd><a href="#page-3">Re-ordering Navigation Items</a>
     </dl>
 
     <div class="tabs-content">
-        <div class="content active" id="page-1">
+        <div class="content active" id="page-intro">
+            <h3>Login to the <a href="http://regard.co.uk/admin.php" title="Admin panel" rel="nofollow" target="_blank">admin panel</a> using your username and password.
+            </h3>
+        </div>
+
+        <div class="content" id="page-1">
             <h3>Creating General Pages</h3>
-            <div class="panel callout radius">
-                <h5>Login to the admin panel using your username and password.</h5>
-            </div>
             <ol>
                 <li>Navigate to Content > Publish/Edit > Pages.</li>
                 <li>Enter Page Data.</li>
