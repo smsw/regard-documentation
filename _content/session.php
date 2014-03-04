@@ -92,6 +92,11 @@
             <p>Click inside the Entry Date box to set the date that the session will be running. Set the Expiration date as the day after the session will be running.
                 Please ignore the “Options” and “Pages” tab.
             </p>
+
+            <div class="panel callout warn radius">
+                <h5>Next...</h5>
+                <p>Go to SEO</p>
+            </div>
         </div>
 
         <div class="content" id="session-panel2-3">
