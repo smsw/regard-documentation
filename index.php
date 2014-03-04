@@ -26,6 +26,11 @@
                 </dd>
 
                 <dd class="heading">
+                    <a href="#panel8">Viewing Orders</a>
+                    <?php include_once('_content/orders.php');?>
+                </dd>
+
+                <dd class="heading">
                     <a href="#panel1">Adding/Editing a Service</a>
                     <?php include_once('_content/services.php');?>
                 </dd>

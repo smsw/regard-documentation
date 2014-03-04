@@ -105,24 +105,5 @@
                 <p>Save your changes before viewing Orders.</p>
             </div>
         </div>
-
-        <!-- Viewing and Processing Orders -->
-        <div class="content" id="products-panel2-7">
-            <div class="panel callout radius">
-                <h5>Note: This is found under the main admin navigation and is not part of publishing/editing products.</h5>
-            </div>
-
-            <h3>Viewing and Processing Orders</h3>
-            <ol>
-                <li>
-                    Go to Store (top of page) > Orders where you will see a list of orders.<br>
-                    <img src="/_content/images/storeorders.png" alt="product orders"/>
-                </li>
-                <li>Click “details” (in red) to view the details of an order. </li>
-                <li>To produce an invoice click “Export As PDF” .</li>
-                <li>To export a list of purchases go to Store>Reports. Here you can create a report an export it as a CSV or PDF file.</li>
-            </ol>
-        </div>
-
     </div>
 </div>

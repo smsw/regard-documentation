@@ -26,7 +26,6 @@
                 <li>Enter a price for the session. For sessions we do not require any postage dimensions or shipping information, so leave these blank.</li>
                 <li>SKU, is your Stock Keeping Unit, and should be unique and related to the session you are creating.</li>
                 <li>Limit stock, i.e the number of sessions/seats that can be purchased. <strong>You must</strong> tick the box next to the value you enter as shown in the screenshot above.</li>
-
             </ul>
 
             <h3>Booking Excerpt</h3>
@@ -74,9 +73,10 @@
         <!-- Activity Type -->
         <div class="content" id="session-panel2-2">
             <h3>Adding and editing Categories for a session</h3>
+
             <p>Displayed here are your list of categories, i.e all of your Activity Types. You can select the red link, 'Edit Categories' to add, or adjust the category names. Currently, only Administrators are able to do this.</p>
             <ul>
-                <li>Tick a category you wish to associate with your session.</li>
+                <li>Tick a category you wish to associate with your session. Please tick OWL Session and Course as well as OWL stand alone course.</li>
                 <li>Click Submit to save your changes.</li>
             </ul>
 
