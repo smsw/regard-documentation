@@ -4,6 +4,8 @@
         <dd><a href="#page-1">Creating your first page</a>
         <dd><a href="#page-2">Navigation and Pages</a>
         <dd><a href="#page-3">Re-ordering Navigation Items</a>
+        <dd><a href="#page-4">Linking to Individual Entries</a>
+        <dd><a href="#page-5">Linking to Pages, Manually</a>
     </dl>
 
     <div class="tabs-content">
@@ -93,5 +95,38 @@
                 </li>
             </ol>
         </div>
+
+        <div class="content" id="page-4">
+            <h3>Linking to Individual Entries</h3>
+
+            <ol>
+                <li>Create a new menu item.</li>
+                <li>As an example, we will be linking to a particular entry named 'Short Breaks'. <br>Enter the link text 'Short Breaks', and select the parent, i.e where you would like the link to display within the navigation structure.
+                    <br>
+                    <img src="/_content/images/navigation_individual.png" alt="navigation order"/>
+                </li>
+                <li>Under 'Create Link',  select 'Guided'. There are three options below this which we need to select before creating this link.  </li>
+                <li>"Select a Template":  Scroll down to 'Service Type', and select index. </li>
+                <li>"Select a Channel":  Scroll down to 'Service Type', and select 'Service Type'</li>
+                <li>"Select an Entry":  Scroll down to 'Short Breaks (Overnight Stays)'.</li>
+                <li>Click Update, and the link will appear in the site.</li>
+            </ol>
+        </div>
+
+        <div class="content" id="page-5">
+            <h3>Linking to Individual Entries</h3>
+
+            <ol>
+                <li>Create a new menu item.</li>
+                <li>As an example, we will be linking to a particular entry named 'Short Breaks'. <br>Enter the link text 'Short Breaks', and select the parent, i.e where you would like the link to display within the navigation structure.
+                    <br>
+                    <img src="/_content/images/navigation_manual.png" alt="navigation manual"/>
+                </li>
+                <li>In this example, we are wanting to show all available sessions for Children's Short Breaks.  To do achieve this, we copy the search URL from the website.</li>
+                <li>We then select Manual under 'Create Link'. </li>
+                <li>Pasting in the copied URL, click 'Add.'</li>
+            </ol>
+        </div>
+
     </div>
 </div>

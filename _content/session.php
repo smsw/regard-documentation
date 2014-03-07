@@ -21,6 +21,9 @@
             <h3>Booking Details</h3>
             <p>Each Session is created by navigating to: Content (top left of the page) > Publish or Edit > Session. Here you will be presented with a list of entries (if editing) and a new session (if publishing). To edit a session just click the one you want to edit. To publish a session follow directions below.</p>
 
+            <h3>Booking Title</h3>
+            <p>Put the title and date of your session here  e.g. OWL Town Farm Workshop – Monday 10th March. This will automatically fill out the url field</p>
+
             <img src="/_content/images/bookasession_details.png" alt="book a session image"/>
             <ul>
                 <li>Enter a price for the session. For sessions we do not require any postage dimensions or shipping information, so leave these blank.</li>
@@ -76,7 +79,7 @@
 
             <p>Displayed here are your list of categories, i.e all of your Activity Types. You can select the red link, 'Edit Categories' to add, or adjust the category names. Currently, only Administrators are able to do this.</p>
             <ul>
-                <li>Tick a category you wish to associate with your session. Please tick OWL Session and Course as well as OWL stand alone course.</li>
+                <li>If you are adding an OWL stand alone course please tick OWL Session and Course as well as OWL stand alone course. For a normal OWL day session just tick OWL Session</li>
                 <li>Click Submit to save your changes.</li>
             </ul>
 
@@ -89,8 +92,7 @@
         <!-- Date -->
         <div class="content" id="session-panel2-4">
             <h3>Session Date</h3>
-            <p>Click inside the Entry Date box to set the date that the session will be running. Set the Expiration date as the day after the session will be running.
-                Please ignore the “Options” and “Pages” tab.
+            <p>Click inside the Entry Date box to set the date that the session will be running. Set the Expiration date as the same day unless it is a session which runs over consecutive days. <br>Please ignore the “Options” and “Pages” tab.
             </p>
 
             <div class="panel callout warn radius">

@@ -4,7 +4,6 @@
         <dd><a href="#products-panel2-6">Publish/Edit</a></dd>
         <dd><a href="#products-panel2-2">Activity Type</a></dd>
         <dd><a href="#products-panel2-3">SEO</a></dd>
-        <dd><a href="#products-panel2-7">Viewing and Processing Orders</a></dd>
     </dl>
 
     <div class="tabs-content">
@@ -21,13 +20,30 @@
             <h3>Product Details</h3>
             <p>Each Product is created by navigating to: Content (top left of the page) > Publish or Edit > Products. Here you will be presented with a list of entries (if editing) and a new product (if publishing). To edit a product just click the one you want to edit. To publish a product follow directions below.</p>
 
+            <h3>Product Title</h3>
+            <p>Title – Put the title of your product here e.g. Cushions by Emma. This will automatically fill out the url field</p>
             <img src="/_content/images/bookasession_details.png" alt="product details image"/>
             <ul>
                 <li>Enter a price for the product. For Products we need to enter product dimensions to determine postage costs.</li>
-                <li>SKU, is your Stock Keeping Unit, and should be unique and related to the session you are creating.</li>
-                <li>Limit stock, i.e the number of products that can be purchased. <strong>You must</strong> tick the box next to the value you enter as shown in the screenshot above.</li>
             </ul>
+            <h3>Postage and Packaging</h3>
+            <p>
+            <ul>
+                <li>Postage and packaging is divided into two types of postage. Large and Small.</li>
+                <li><strong>If a product is over the weight of 3kg, the system will automatically charge £6.00 in postage and packaging costs. Otherwise, if it is below 3kg, a charge of £3.00 will be issued.</strong></li>
+                <li>Please leave <strong>Handling Surcharge</strong> empty</li>
+            </ul>
+            </p>
+            <h3>SKU Codes</h3>
+            <ul>
+                <li><strong>SKU</strong>, is your Stock Keeping Unit. Always refer to the below list and copy them exactly into the SKU field when submitting a new product or session. </li>
+                <li><strong>Limit stock</strong>, i.e the number of products that can be purchased. <strong>You must</strong> tick the box next to the value you enter as shown in the screenshot above.</li>
+            </ul>
+            <p></p>
+            <?php include_once('_content/skucodes.php');?>
 
+
+            <br>
             <h3>Product Price Range</h3>
             <ul>
                 <li>To filter this product in search results, select a Product Price Range that matches the price you have entered above in Product Details.</li>
