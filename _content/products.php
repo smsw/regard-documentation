@@ -30,7 +30,7 @@
             <p>
             <ul>
                 <li>Postage and packaging is divided into two types of postage. Large and Small.</li>
-                <li><strong>If a product is over the weight of 3kg, the system will automatically charge £6.00 in postage and packaging costs. Otherwise, if it is below 3kg, a charge of £3.00 will be issued.</strong></li>
+                <li><strong>If a product is going to be delivered as a large parcel, enter 3kg into the weight field.</strong></li>
                 <li>Please leave <strong>Handling Surcharge</strong> empty</li>
             </ul>
             </p>
