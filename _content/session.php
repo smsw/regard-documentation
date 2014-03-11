@@ -31,7 +31,7 @@
                 <li><strong>SKU</strong>, is your Stock Keeping Unit. Always refer to the below list and copy them exactly into the SKU field when submitting a new product or session. </li>
                 <li><strong>Limit stock</strong>, i.e the number of sessions that can be purchased. <strong>You must</strong> tick the box next to the value you enter as shown in the screenshot above.</li>
             </ul>
-            <?php include_once('_content/skucodes.php');?>
+            <?php include('_content/skucodes.php');?>
 
             <h3>Booking Excerpt</h3>
             <ul>
