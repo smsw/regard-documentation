@@ -26,7 +26,7 @@
                 </dd>
 
                 <dd class="heading">
-                    <a href="#panel8">Viewing Orders</a>
+                    <a href="#panel8">Viewing Orders and Updating Postage Costs</a>
                     <?php include_once('_content/orders.php');?>
                 </dd>
 

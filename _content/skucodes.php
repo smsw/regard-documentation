@@ -25,7 +25,7 @@
     <tr>
         <td>Children’s Day care</td>
         <td>CYPDAY</td>
-        <td>to be confirmed</td>
+        <td>regardforchildren-dorset@regard.co.uk</td>
     </tr>
     <tr>
         <td>Children’s Hoilday club</td>
@@ -35,7 +35,7 @@
     <tr>
         <td>Children’s Overnight stay</td>
         <td>CYPNIGHT</td>
-        <td>to be confirmed</td>
+        <td>regardforchildren-dorset@regard.co.uk</td>
     </tr>
     <tr>
         <td>OWL products from TFW</td>

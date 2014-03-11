@@ -25,11 +25,13 @@
             <p>Put the title and date of your session here  e.g. OWL Town Farm Workshop – Monday 10th March. This will automatically fill out the url field</p>
 
             <img src="/_content/images/bookasession_details.png" alt="book a session image"/>
+
+            <h3>SKU Codes</h3>
             <ul>
-                <li>Enter a price for the session. For sessions we do not require any postage dimensions or shipping information, so leave these blank.</li>
-                <li>SKU, is your Stock Keeping Unit, and should be unique and related to the session you are creating.</li>
-                <li>Limit stock, i.e the number of sessions/seats that can be purchased. <strong>You must</strong> tick the box next to the value you enter as shown in the screenshot above.</li>
+                <li><strong>SKU</strong>, is your Stock Keeping Unit. Always refer to the below list and copy them exactly into the SKU field when submitting a new product or session. </li>
+                <li><strong>Limit stock</strong>, i.e the number of sessions that can be purchased. <strong>You must</strong> tick the box next to the value you enter as shown in the screenshot above.</li>
             </ul>
+            <?php include_once('_content/skucodes.php');?>
 
             <h3>Booking Excerpt</h3>
             <ul>
