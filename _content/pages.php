@@ -1,11 +1,12 @@
 <div id="panel3" class="content">
     <dl class="tabs" data-tab>
         <dd class="active"><a href="#page-intro">Introduction</a></dd>
-        <dd><a href="#page-1">Creating your first page</a>
-        <dd><a href="#page-2">Navigation and Pages</a>
-        <dd><a href="#page-3">Re-ordering Navigation Items</a>
-        <dd><a href="#page-4">Linking to Individual Entries</a>
-        <dd><a href="#page-5">Linking to Pages, Manually</a>
+        <dd><a href="#page-1">Creating your first page</a></dd>
+        <dd><a href="#page-2">Navigation and Pages</a></dd>
+        <dd><a href="#page-3">Re-ordering Navigation Items</a></dd>
+        <dd><a href="#page-4">Linking to Individual Entries</a></dd>
+        <dd><a href="#page-5">Linking to Pages, Manually</a></dd>
+        <dd><a href="#page-6">Creating a Dropdown</a></dd>
     </dl>
 
     <div class="tabs-content">
@@ -70,6 +71,7 @@
                 <li>Once selected, click 'Add'.</li>
                 <li>The link was always live and accessible so long as the page created for it is 'Open'. We are simply taking an existing page that exists, and appending it in our footer navigation. </li>
             </ol>
+
             <div class="panel callout radius">
                 <h5>Result</h5>
                 <p>The About Us link will now appear in the footer.</p>
@@ -127,6 +129,37 @@
                 <li>Pasting in the copied URL, click 'Add.'</li>
             </ol>
         </div>
+
+
+        <div class="content" id="page-6">
+            <h3>Creating a sub nav link</h3>
+            <div class="panel callout radius">
+                <h5>Make sure to read 'Creating your first page' or 'Linking to individual entries' before following this.</h5>
+            </div>
+            <ol>
+                <li>Once you have a navigation item created, you may want to add a sub navigation link.</li>
+                <li>For example, to take Short Breaks, and add a new link within this called 'Book a children's break'.</li>
+                <li>To do this, we must edit our Parent navigation item, to which our child (sub navigation link) will sit. In this case, it will be Short Breaks (Overnight Stays).</li>
+                <li>
+                    You will be presented with the following:
+                    <br>
+                    <img src="/_content/images/navigation_individual.png" alt="pages add item" />
+                </li>
+                <li>Click 'More Options'</li>
+                <li>Scroll down until you find 'Class'</li>
+                <li>In here, simply enter 'has-dropdown'.<br>
+                    <img src="/_content/images/pagessublink.png" alt="pages sub link" />
+                </li>
+                <li>Click 'Update'.</li>
+            </ol>
+
+            <div class="panel callout radius">
+                <h5>Result</h5>
+                <p>The Book a children's break link will now appear as a parent of Short Breaks</p>
+            </div>
+            <img src="/_content/images/pagesitemlink.png" alt="page links"/>
+        </div>
+
 
     </div>
 </div>
