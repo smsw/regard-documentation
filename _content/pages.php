@@ -155,7 +155,7 @@
 
             <div class="panel callout radius">
                 <h5>Result</h5>
-                <p>The Book a children's break link will now appear as a parent of Short Breaks</p>
+                <p>The Book a Children's Break link will now appear as a child of Short Breaks</p>
             </div>
             <img src="/_content/images/pagesitemlink.png" alt="page links"/>
         </div>
