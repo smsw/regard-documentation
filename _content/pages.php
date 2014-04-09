@@ -130,7 +130,6 @@
             </ol>
         </div>
 
-
         <div class="content" id="page-6">
             <h3>Creating a sub nav link</h3>
             <div class="panel callout radius">
@@ -159,7 +158,6 @@
             </div>
             <img src="/_content/images/pagesitemlink.png" alt="page links"/>
         </div>
-
 
     </div>
 </div>

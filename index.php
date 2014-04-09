@@ -50,6 +50,10 @@
                     <a href="#panel12">Closing Entries</a>
                     <?php include_once('_content/closing.php');?>
                 </dd>
+                <dd class="heading">
+                    <a href="#panel13">BrowseAloud</a>
+                    <?php include_once('_content/browsealoud.php');?>
+                </dd>
             </dl>
         </div>
     </div>
