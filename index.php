@@ -54,6 +54,10 @@
                     <a href="#panel13">BrowseAloud</a>
                     <?php include_once('_content/browsealoud.php');?>
                 </dd>
+                <dd class="heading">
+                    <a href="#panel14">Forms</a>
+                    <?php include_once('_content/forms.php');?>
+                </dd>
             </dl>
         </div>
     </div>
