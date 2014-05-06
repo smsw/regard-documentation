@@ -76,6 +76,9 @@
                 <li>Within the dropdpown you will be given a list of forms to display in your page.</li>
                 <li>Select a form to display in your page, and click Submit to finish.</li>
             </ol>
+            <h3>Return path</h3>
+            <p>The 'return path' is typically a URL you wish to redirect the user to upon them completing a form. Leave it blank to redirect to the same form page, or enter in a Regard URL.</p>
+            <p>The default return path:  <strong>/contact/thank-you</strong></p>
         </div>
     </div>
 </div>
