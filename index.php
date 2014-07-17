@@ -51,6 +51,10 @@
                     <?php include_once('_content/closing.php');?>
                 </dd>
                 <dd class="heading">
+                    <a href="#panel15">Adding Links</a>
+                    <?php include_once('_content/links.php');?>
+                </dd>
+                <dd class="heading">
                     <a href="#panel13">BrowseAloud</a>
                     <?php include_once('_content/browsealoud.php');?>
                 </dd>
